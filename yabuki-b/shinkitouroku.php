@@ -2,28 +2,32 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <title>新規登録</title>
-       
+        <title> 初回登録画面</title>
     </head>
-     <CENTER>
     <body>
-        <img src ="syokaitouroku.PNG"width="700"height="300">
-        <CENTER>
+    <center>
+   <h1>
+           初回登録画面   
+        </h1>
+        <br>
+        
+<p>名前とパスワードを入力し、  <br>
+所属している研究室を選択して下さい。
+</p>
 
         <div>
        
             <form method="post" action="adduser.php">
                 <CENTER>
-                    <p>名前<input type="text"size="30" name="example1" value="" ><br>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名前<input type="text"size="30" name="example1" value="" ><br>
                     
+                    <CENTER>
+         &nbsp;&nbsp;&nbsp;パスワード<input type="password" name="example3"size="30" value="" pattern="[A-Za-z0-9]{1,36}" required ><br>
                     <br>
                     <CENTER>
-                    パスワード<input type="password" name="example3"size="30" value="" pattern="[A-Za-z0-9]{1,36}" required ><br>
-                    <br>
-                    <CENTER>
-                     所属研究室
+                      &nbsp;所属研究室
 
-<select style="width: 200px" name="example2" ><br />>
+<select style="width: 215px" name="example2" ><br />>
 
  <option value=""selected></option>
 
@@ -58,9 +62,3 @@
 <br />
 
 </select>
-
-               <p><input type="submit" value="登録"></p>
-            </form>
-        </div>
-    </body>
-</html>
