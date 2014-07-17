@@ -29,7 +29,7 @@
 
     </table>
     <center>
-    <div style="margin:75px;padding:0px;" align="left">
+    <div style="margin:0px;padding:0px;" align="left">
 
         <?php
         error_reporting(E_ALL & ~E_NOTICE);
@@ -56,7 +56,7 @@ require_once 'database_conf.php';
     </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
 </tr>
 <?php
@@ -87,7 +87,7 @@ echo '</table>';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -117,7 +117,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -144,7 +144,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -171,7 +171,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -198,7 +198,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:55px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -228,7 +228,7 @@ require_once 'database_conf.php';
 </table>
 <br><br/><br><br/><br><br/><br><br/><br><br/><br><br/><br><br/><br><br/><br><br/>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -257,7 +257,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -285,7 +285,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -315,7 +315,7 @@ require_once 'database_conf.php';
 </table>
 </div>
 
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -344,7 +344,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
@@ -373,7 +373,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
     //データベースに接続
@@ -401,7 +401,7 @@ require_once 'database_conf.php';
 </tbody>
 </table>
 </div>
-<div style="margin:75px;padding:0px;" align="left">
+<div style="margin:0px;padding:0px;" align="left">
 
     <?php
     error_reporting(E_ALL & ~E_NOTICE);
