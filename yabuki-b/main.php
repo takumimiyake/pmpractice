@@ -4,7 +4,7 @@
     </head>
     <style>
         div, table {display:inline;}
-        .inroom {color:blue;}
+        .inroom {font-weight:bold;}
         .notinroom {color:black;}
     </style>
     <body>
