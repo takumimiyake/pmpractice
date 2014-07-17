@@ -28,6 +28,7 @@
 
 
     </table>
+    <center>
     <div style="margin:75px;padding:0px;" align="left">
 
         <?php
@@ -428,7 +429,7 @@ require_once 'database_conf.php';
 </table>
 
 </div>
-
+</center>
 
 </tbody>
 </table>
