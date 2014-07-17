@@ -9,25 +9,27 @@
     </style>
     <body>
 
-        <table border="0" width="100%" vspace="100">
+   <center>
+        <table border="0" width="75%" vspace="100">
             <tr>
             <form>
-                <td align="left">     <input type="image"src="更新.PNG"onclick=location.reload()></td>
+                <td align="right">     <input type="image"src="更新.PNG"onclick=location.reload()></td>
             </form>
             <form action="present.php" method="post">
-                <td align="right">    <input type="image"src="imairu.PNG"width="500"height="175"/></td>
+                <td align="right">    <input type="image"src="imairu.PNG"width="300"height="120"/></td>
             </form>
             <form action="taishitu.php" method="post"> 
-                <td align="center">   <input type="image"src="taishitu.PNG"width="500"height="175"/></td>
+                <td align="left">   <input type="image"src="taisitu.PNG"width="300"height="120"/></td>
             </form>
             <form action="logout.php" method="post">
-                <td align="right"><input type="image"src="roguauto.PNG"width="250"height="150"/></td>
+                <td align="left"><input type="image"src="roguauto.PNG"width="150"height="100"/></td>
             </form>
         </tr>
 
 
 
     </table>
+    </center>
     <center>
     <div style="margin:0px;padding:0px;" align="left">
 
