@@ -22,7 +22,7 @@
                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名前<input type="text"size="30" name="example1" value="" ><br>
                     
                     <CENTER>
-         &nbsp;&nbsp;&nbsp;パスワード<input type="password" name="example3"size="30" value="" pattern="[A-Za-z0-9]{1,36}" required ><br>
+         &nbsp;&nbsp;&nbsp;パスワード<input type="password" name="example3"size="30" value="" pattern="[A-Za-z0-9]{8,8}" required ><br>
                     <br>
                     <CENTER>
                       &nbsp;所属研究室
