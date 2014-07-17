@@ -19,7 +19,7 @@
                 <td align="right">    <input type="image"src="imairu.PNG"width="300"height="120"/></td>
             </form>
             <form action="taishitu.php" method="post"> 
-                <td align="left">   <input type="image"src="taisitu.PNG"width="300"height="120"/></td>
+                <td align="left">   <input type="image"src="taishitu.PNG"width="300"height="120"/></td>
             </form>
             <form action="logout.php" method="post">
                 <td align="left"><input type="image"src="roguauto.PNG"width="150"height="100"/></td>
