@@ -62,3 +62,8 @@
 <br />
 
 </select>
+               <p><input type="submit" value="登録"></p>
+            </form>
+        </div>
+    </body>
+</html>
